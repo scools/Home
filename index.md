@@ -1,8 +1,9 @@
-## Welcome to the Seattle Area Child Development Research Network
+# Welcome to the Seattle Area Child Development Research Network
 
 
 
-### Markdown
+## This is an open membership profressional network for researchers in child development and related fields
+## 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
