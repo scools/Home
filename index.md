@@ -1,4 +1,4 @@
-### The Seattle Area Child Development Research Network This is an open membership professional network and learning community for early-career researchers in child development and related fields. This GitHub site serves as a collaboration tool.
+### This is an open-membership, professional network and learning community for early-career researchers in child development and related fields. This GitHub Repository serves as a collaboration tool.
 
 [Discussions](https://github.com/scools/Research-Network/projects/2?add_cards_query=is%3Aopen)
 
