@@ -1,5 +1,5 @@
 <p align="center">
-This is an open-membership, professional network and learning community for early-career researchers in child development and related fields. This GitHub Repository serves as a collaboration tool.
+This is an open-membership, professional learning community for early-career researchers in child development and related fields. This GitHub Repository serves as a collaboration tool.
 </p>
  
  
