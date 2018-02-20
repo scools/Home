@@ -6,7 +6,7 @@ This is an open membership profressional network and learning community for earl
 
 [Conferences](https://github.com/scools/Research-Network/wiki/Conferences)
 
-[Resources](https://github.com/scools/Research-Network/wiki/Resources)
+[Associations](https://github.com/scools/Research-Network/wiki/Resources)
 
 [Projects](https://github.com/scools/Research-Network/wiki/Projects)
 
