@@ -10,4 +10,4 @@ This is an open membership professional network and learning community for early
 
 [Projects](https://github.com/scools/Research-Network/wiki/Projects)
 
-[Resources & Policies](https://github.com/scools/Research-Network/wiki/Resources-%7C-Policies)
+[Local Resources](https://github.com/scools/Research-Network/wiki/Resources-%7C-Policies)
