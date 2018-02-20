@@ -9,3 +9,5 @@ This is an open membership profressional network and learning community for earl
 [Resources](https://github.com/scools/Research-Network/wiki/Resources)
 
 [Projects](https://github.com/scools/Research-Network/wiki/Projects)
+
+[Resources | Policies](https://github.com/scools/Research-Network/wiki/Resources-%7C-Policies)
