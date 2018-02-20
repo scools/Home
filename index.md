@@ -2,11 +2,11 @@
 
 
 <p align="center">
- <a [Discussions](https://github.com/scools/Research-Network/projects/2?add_cards_query=is%3Aopen) </a> |
- <a [Conferences](https://github.com/scools/Research-Network/wiki/Conferences) </a> |
- <a [Associations](https://github.com/scools/Research-Network/wiki/Resources) </a> |
- <a [Projects](https://github.com/scools/Research-Network/wiki/Projects) </a> |
- <a [Local Resources](https://github.com/scools/Research-Network/wiki/Resources-%7C-Policies)
+ <a href="https://github.com/scools/Research-Network/projects/2?add_cards_query=is%3Aopen">Discussion</a> |
+ <a href="https://github.com/scools/Research-Network/wiki/Conferences">Conferences</a> |
+ <a href="https://github.com/scools/Research-Network/wiki/Resources">Associations</a> |
+ <a href="https://github.com/scools/Research-Network/wiki/Projects">Projects</a> |
+ <a href="https://github.com/scools/Research-Network/wiki/Resources-%7C-Policies">Local Resources</a>
  <br><br>
  </p>
 
