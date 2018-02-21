@@ -1,9 +1,9 @@
 <p align="center">
- **<a href="https://github.com/scools/Research-Network/wiki/Local-Resources">Local Resources</a>  |
+ <a href="https://github.com/scools/Research-Network/wiki/Local-Resources">Local Resources</a>  |
  <a href="https://github.com/scools/Research-Network/wiki/Conferences">Conferences</a>  |
  <a href="https://github.com/scools/Research-Network/wiki/Associations">Associations</a>  |
  <a href="https://github.com/scools/Research-Network/projects/2">Projects and Discussions</a>
-<br><br>**
+<br><br>
 </p>
 
 
