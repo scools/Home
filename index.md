@@ -25,7 +25,16 @@ updated: 6/20/2018
 ***
 
 ### [Institutional Challenge Grant: W.T. Grant Foundation](http://wtgrantfoundation.org/grants/institutional-challenge-grant?utm_source=WilliamTGrant+Website+Signup&utm_campaign=889a2128a2-ICG+webinar+and+measures&utm_medium=email&utm_term=0_a590baf297-889a2128a2-340576261)
+The Institutional Challenge Grant encourages university-based research institutes, schools, and centers to build sustained research-practice partnerships with public agencies or nonprofit organizations in order to reduce inequality in youth outcomes. The online application is now open. All applications must be received by **September 7, 2018** 3:00 PM EST.
 
-The Institutional Challenge Grant encourages university-based research institutes, schools, and centers to build sustained research-practice partnerships with public agencies or nonprofit organizations in order to reduce inequality in youth outcomes. The online application is now open. All applications must be received by **September 7, 2018, 3:00 PM EST**.
+***
+
+### [AERA Call for 2019 Conference Submissions](http://www.aera.net/Portals/38/AERA_AM2019_CallforSubmissions_FINAL_1.pdf)
+2019 AERA Annual Meeting: Leveraging Education Research in a ‘Post-Truth’ Era: Multimodal Narratives to Democratize Evidence on **April 5-9, 2019 in Toronto, Ontario, CANADA**.
+
+***
+
+### [Society for Personality and Social Psychology (SPSP) Call for 2019 Conference Submissions](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmeeting.spsp.org%2Fgeneral-info%2Fimportant-dates&data=02%7C01%7Ckristin.moore%40kingcounty.gov%7C6bfb9131549b4775170108d5d6d12c9c%7Cbae5059a76f049d7999672dfe95d69c7%7C0%7C0%7C636651116258330308&sdata=0IyDdGEm%2FwqSzdxYO33RkuzrOOhlTO%2BQ1IoZb8jWrLQ%3D&reserved=0)
+The [submission portal](http://meeting.spsp.org/programming/prepare-your-submissions) for the SPSP Convention will be open July 9 - 24th. The conference is scheduled for February 7-9, 2019 in Portland, OR.
 
 ***
