@@ -7,5 +7,9 @@
 </p>
 
 <p align="center">
-**This is an open-membership, professional learning community for early-career researchers in child development and related fields. This GitHub Repository serves as a collaboration tool.**
+This is an open-membership, professional learning community for early-career researchers in child development and related fields. This GitHub Repository serves as a collaboration tool.
 </p>
+
+<p align="left">
+ Meetings are held monthly every third Thursday from 2-4pm. Contact [Shelby](mailto:scooley@ccedresults.org) or [Jose](mailto:joseh@uw.edu) for more information
+ </p>
