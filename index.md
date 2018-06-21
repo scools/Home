@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://scools.github.io/Resources">Resources</a>  |
+ <a href="https://scools.github.io/Resources/">Resources</a>  |
  <a href="https://github.com/scools/Research-Network/wiki/Conferences">Conferences</a>  |
  <a href="https://github.com/scools/Research-Network/wiki/Associations">Associations</a>  |
  <a href="https://github.com/scools/Research-Network/projects/2">Projects and Discussions</a>
