@@ -11,5 +11,5 @@ This is an open-membership, professional learning community for early-career res
 </p>
 
 <p align="center">
-For more information scooley@ccedresults.org or joseh@uw.edu
+For more information: scooley@ccedresults.org or joseh@uw.edu
 </p>
