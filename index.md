@@ -11,5 +11,5 @@ This is an open-membership, professional learning community for early-career res
 </p>
 
 <p align="left">
- Meetings are held monthly every third Thursday from 2-4pm. Contact [Shelby](mailto:scooley@ccedresults.org) or [Jose](mailto:joseh@uw.edu) for more information
+Meetings are held monthly every third Thursday from 2-4pm. Contact Shelby at scooley@ccedresults.org) or Jose at joseh@uw.edu for more information
  </p>
