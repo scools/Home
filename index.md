@@ -9,7 +9,7 @@
 ***
 
 <p align="center">
-This is an open-membership, professional learning community for early-career researchers in child development and related fields. Meetings are held monthly every third Thursday from 2-4pm. This GitHub Repository serves as a collaboration tool. 
+The Research Network is an open-membership, multi-sector, professional learning community for early-career researchers in child development, education and related social sciences. Members are from local universities, research institutes, non-profits, K12 districts, cities, King County, state government. Meetings are held monthly every third Thursday from 2-4pm with the goal of learning, discussing methodology, sharing current studies, uplifting opportunities for collaboration, centering racial equity, impacted communities and information for impact. This site serves as a collaboration tool and resource hub.
 </p>
 
 ***
