@@ -12,6 +12,8 @@
 This is an open-membership, professional learning community for early-career researchers in child development and related fields. Meetings are held monthly every third Thursday from 2-4pm. This GitHub Repository serves as a collaboration tool. 
 </p>
 
+***
+
 <p align="center">
 For more information: scooley@ccedresults.org or joseh@uw.edu
 </p>
