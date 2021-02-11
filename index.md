@@ -15,5 +15,5 @@ The Research Network is an open-membership, multi-sector, professional learning 
 ***
 
 <p align="center">
-For more information: scooley@ccedresults.org or joseh@uw.edu
+For more information: spcooley@seattleschools.org or joseh@uw.edu
 </p>
